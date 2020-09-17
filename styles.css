@@ -1,0 +1,45 @@
+
+
+  
+  
+  h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 300%;
+    font-weight: 20;
+    color: rgb(109, 109, 109)
+    }
+    h2 {
+      font-family: Arial, Helvetica, sans-serif;
+      font-size: 250%;
+      color: rgb(57, 57, 57)
+      }
+      h3 {
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 200%;
+        color: rgb(57, 57, 57)
+        }
+        h4 {
+          font-family: Arial, Helvetica, sans-serif;
+          font-size: 150%;
+          color: rgb(57, 57, 57)
+          }
+          h5 {
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: 100%;
+            color: rgb(57, 57, 57)
+            }
+            h6 {
+              font-family: Arial, Helvetica, sans-serif;
+              font-size: 300%;
+              font-weight: 20;
+              color: rgb(244, 210, 19)
+              }
+
+              p {
+                font-family: Arial, Helvetica, sans-serif;
+                font-size: 150%;
+                color: rgb(97, 97, 97)
+              }
+              li {color: orange
+              }
+              
